@@ -14,6 +14,7 @@ Plain GARCH squares the return shock (ε²) which kills the sign — crashes and
 Both EGARCH and GJR-GARCH fix this problem, but through different mechanisms.
 
 ---
+<img width="1390" height="502" alt="forecast032026" src="https://github.com/user-attachments/assets/af27ad7d-452c-47fe-8519-1bcd2cd2bad0" />
 
 ## Results
 
