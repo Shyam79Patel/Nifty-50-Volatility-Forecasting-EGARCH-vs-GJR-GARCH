@@ -1,0 +1,1 @@
+# Nifty-50-Volatility-Forecasting-EGARCH-vs-GJR-GARCH
