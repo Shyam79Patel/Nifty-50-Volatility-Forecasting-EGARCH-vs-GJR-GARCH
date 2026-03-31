@@ -9,7 +9,7 @@ This project forecasts Nifty 50 volatility for March 2026 using two asymmetric G
 
 ## Why not plain GARCH?
 
-Plain GARCH squares the return shock (ε²) which kills the sign — crashes and rallies are treated identically. But in real markets, crashes spike volatility far more than rallies of the same size. This is called the **leverage effect**, when prices fall, leverage ratio rises, making equity riskier, which mechanically increases volatility.
+Plain GARCH squares the return shock (ε²) which kills the sign, crashes and rallies are treated identically. But in real markets, crashes spike volatility far more than rallies of the same size. This is called the **leverage effect**, when prices fall, leverage ratio rises, making equity riskier, which mechanically increases volatility.
 
 Both EGARCH and GJR-GARCH fix this problem, but through different mechanisms.
 
